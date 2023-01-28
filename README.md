@@ -6,14 +6,12 @@ YouTube Float Title is a free and open source chrome extension which allows you 
 #### Version: 1.0.0
 #### Manifest version: 3.0
 
-
-![collage](https://user-images.githubusercontent.com/113179307/215278745-67bbf056-473d-46f1-857b-a01ec88935c2.png)
-
-
-
 ## How does it works
 Chrome extensions can do pretty much anything within a website as long as the appropriate permissions are available.
 My extension takes the title of the webpage (title of the page on the video, the one that you see on the tab!! **Even though the title of the webpage is same as the title of the video for most times**)
+
+![collage](https://user-images.githubusercontent.com/113179307/215278773-49b1ace2-8dc4-4a2c-881b-bac5844873de.png)
+
 
 So whenever there is a change within the YouTube page, the float title will automatically update the text content without need to refresh.
 You can also click and drag the title around the screen according to your wish and you retain the title even if you are watching the video in fullscreen.
