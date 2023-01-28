@@ -68,8 +68,10 @@ I'm looking forward to add the following features to this extension in the futur
 3. Add a translucent background for the text to make it more appealing and no so simple.
 4. Pusblish this extension to chrome dev (Duh!) 
 
-Special thanks for [INHUMAN](https://www.youtube.com/@inhuman.society) for being the inspiration for this project. 
+Special thanks to [INHUMAN](https://www.youtube.com/@inhuman.society) for being the inspiration for this project. 
+
 Also a special thanks to alvistse#6558 on discord for helping me with doubts.
+
 Shout out to both of 'em.
 
 Happy surfing!
