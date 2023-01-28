@@ -27,10 +27,9 @@ Step 1: Download this entire repository by clicking the "Code" button (the green
 
 Step 2: Extract the zip file using any software like WinRaR in a desirable position which you can access easily (Desktop or Downloads for example).
 
-Icon may look something like this:  ![extension](https://user-images.githubusercontent.com/113179307/215277532-819063d7-9ae2-4c80-b7ed-9e56bec064ec.PNG)
-
-
 Step 3: Head over to your chrome web browser and click on the "Extensions" icon (Puzzle Piece on the same level as the top search bar).
+
+Icon may look something like this:  ![extension](https://user-images.githubusercontent.com/113179307/215277532-819063d7-9ae2-4c80-b7ed-9e56bec064ec.PNG)
 
 Step 4: Click on "Manage Extensions". A new window tab will pop up!. (or type in **chrome://extensions/** on the url search bar)
 
