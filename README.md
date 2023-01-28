@@ -27,7 +27,7 @@ Step 2: Extract the zip file using any software like WinRaR in a desirable posit
 
 Step 3: Head over to your chrome web browser and click on the "Extensions" icon (Puzzle Piece on the same level as the top search bar).
 
-Step 4: Click on "Manage Extensions". A new window tab will pop up!.
+Step 4: Click on "Manage Extensions". A new window tab will pop up!. (or type in **chrome://extensions/** on the url search bar)
 
 Step 5: Turn on the developer mode and click the "Load Unpacked" .
 
