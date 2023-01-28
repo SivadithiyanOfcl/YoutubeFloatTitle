@@ -74,6 +74,8 @@ I'm looking forward to add the following features to this extension in the futur
 ## Remarks
 
 Special thanks to [INHUMAN](https://www.youtube.com/@inhuman.society) for being the inspiration for this project. 
+In this [video](https://www.youtube.com/watch?v=AnMvPj9prFg&t=206s) @ 3:26 INHUMAN was asking his colleague to make the title visible whenever a video is playing.
+This became the source of insipration for this project. 
 
 Also a special thanks to alvistse#6558 on discord for helping me with doubts.
 
