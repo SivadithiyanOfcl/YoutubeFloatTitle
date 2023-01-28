@@ -23,7 +23,10 @@ Follow these steps to properly set-up the chrome extension!
 
 Step 1: Download this entire repository by clicking the "Code" button (the green one!) and click the "Download ZIP" option.
 
-Step 2: Extract the zip file using any software like WinRaR in a desirable position which you can access easily (Desktop or Downloads for example).
+![codep](https://user-images.githubusercontent.com/113179307/215278008-9c8e322a-5c0e-4a77-a06e-f57ece99ece4.png)
+
+Step 2: Extract the zip file using any software like WinRaR in a desirable position which you can access easily (Desktop or Downloads for example).![extension](https://user-images.githubusercontent.com/113179307/215277532-819063d7-9ae2-4c80-b7ed-9e56bec064ec.PNG)
+
 
 Step 3: Head over to your chrome web browser and click on the "Extensions" icon (Puzzle Piece on the same level as the top search bar).
 
@@ -31,12 +34,26 @@ Step 4: Click on "Manage Extensions". A new window tab will pop up!. (or type in
 
 Step 5: Turn on the developer mode and click the "Load Unpacked" .
 
+![dev](https://user-images.githubusercontent.com/113179307/215277556-681c665a-8218-456c-8273-8ecbba13a4c7.PNG)
+
+![load](https://user-images.githubusercontent.com/113179307/215277568-69cd2f42-f821-41d3-b5c3-7bcd08909487.PNG)
+
+
 Step 6: Now head over to the location where you have the zip file extracted and select the folder entirely.
+
+![mid](https://user-images.githubusercontent.com/113179307/215277638-83afa684-b139-40dd-abb9-269e9b030b01.PNG)
+
 
 Step 7: Tada! You are all done. Head over to the YouTube and see it for yourself (Don't forget to turn on the extension).
 
+![on edited](https://user-images.githubusercontent.com/113179307/215277808-8637d46a-1c25-40c4-96d6-750979cf4671.png)
+
+
 If you want to remove this extension, simply navigate to manage extension on the extension icon and disable the extension or right-click my extension's icon (a black YouTube icon) and select "Remove from Chrome" and click "Ok" to remove it. You can always load the extension back using the previous steps (Follow from step 3). 
- 
+
+![remove edited](https://user-images.githubusercontent.com/113179307/215277820-497bbf86-f7ad-4baa-be5d-ede91378f23c.png)
+
+
 ## Future Plans
 
 For now the extension is bare-minimum. It can do what it can do but customization is very limited. As for the last version (version 1.0.0), you can only move the title around and that's that.
