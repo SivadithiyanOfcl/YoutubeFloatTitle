@@ -81,4 +81,5 @@ Also a special thanks to alvistse#6558 on discord for helping me with doubts.
 
 Shout out to both of 'em.
 
+If there are any bugs or issues regarding the extension, please open a issue here or contact me personally on discord @ Avis#6483
 Happy surfing!
