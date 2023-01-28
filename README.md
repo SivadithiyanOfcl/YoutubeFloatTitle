@@ -33,11 +33,13 @@ Icon may look something like this:  ![extension](https://user-images.githubuserc
 
 Step 4: Click on "Manage Extensions". A new window tab will pop up!. (or type in **chrome://extensions/** on the url search bar)
 
-Step 5: Turn on the developer mode and click the "Load Unpacked" .
+Step 5: Turn on the developer mode.
 
 ![dev](https://user-images.githubusercontent.com/113179307/215277556-681c665a-8218-456c-8273-8ecbba13a4c7.PNG)
 
-![load](https://user-images.githubusercontent.com/113179307/215277568-69cd2f42-f821-41d3-b5c3-7bcd08909487.PNG)
+click the "Load Unpacked". This will allow you to load your own extensions locally.
+
+![loader](https://user-images.githubusercontent.com/113179307/215278176-e7bc1b9f-4b2a-4902-9dc0-3390341fbceb.png)
 
 
 Step 6: Now head over to the location where you have the zip file extracted and select the folder entirely.
