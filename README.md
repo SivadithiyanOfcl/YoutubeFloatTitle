@@ -21,12 +21,18 @@ But I'm willing to open source it, you are free to modify the way you want and a
 Follow these steps to properly set-up the chrome extension!
 
 Step 1: Download this entire repository by clicking the "Code" button (the green one!) and click the "Download ZIP" option.
-Step 2: Extract the zip file using any software like WinRaR in a desirable position which you can access easily (Desktop or Downloads for example)
-Step 3: Head over to your chrome web browser and click on the "Extensions" icon (Puzzle Piece on the same level as the top search bar)
-Step 4: Click on "Manage Extensions". A new window tab will pop up!
-Step 5: Turn on the developer mode and click the "Load Unpacked" 
+
+Step 2: Extract the zip file using any software like WinRaR in a desirable position which you can access easily (Desktop or Downloads for example).
+
+Step 3: Head over to your chrome web browser and click on the "Extensions" icon (Puzzle Piece on the same level as the top search bar).
+
+Step 4: Click on "Manage Extensions". A new window tab will pop up!.
+
+Step 5: Turn on the developer mode and click the "Load Unpacked" .
+
 Step 6: Now head over to the location where you have the zip file extracted and select the folder entirely.
-Step 7: Tada! You are all done. Head over to the YouTube and see it for yourself (Don't forget to turn on the extension)
+
+Step 7: Tada! You are all done. Head over to the YouTube and see it for yourself (Don't forget to turn on the extension).
 
 If you want to remove this extension, simply navigate to manage extension on the extension icon and disable the extension or right-click my extension's icon (a black YouTube icon) and select "Remove from Chrome" and click "Ok" to remove it. You can always load the extension back using the previous steps (Follow from step 3). 
  
