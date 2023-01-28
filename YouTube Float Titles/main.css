@@ -1,0 +1,19 @@
+.box {
+ /* background-color: rgba(255, 255, 255, 0.4); */
+ padding: 10px; /* optional */
+ color: white;
+ top: 10px;
+ right: 10px;
+ position: absolute;
+ display: inline-block;
+ z-index: 9999;
+ font-size: 3rem;
+ min-width: 500px;
+ font-family: sans-serif;
+}
+
+.vidTitle{
+  color: white;
+  position: relative;
+  display: block;
+}

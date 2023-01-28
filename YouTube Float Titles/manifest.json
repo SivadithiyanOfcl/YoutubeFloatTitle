@@ -1,0 +1,16 @@
+{
+  "manifest_version" : 3,
+  "name": "YouTube Float Title",
+  "description" : "This extension will allow you to display the title of the youtube video on your screen even on fullscreen mode!. You can also move the title wherever you want. Streaming friendly!",
+  "version": "1.0.0",
+  "icons": {
+    "16": "/icons/icon16.png",
+    "48": "/icons/icon48.png",
+    "128": "/icons/icon128.png"
+  },
+  "content_scripts" : [{
+      "matches": ["https://www.youtube.com/*"],
+      "css": ["main.css"],
+      "js": ["inject.js"]
+    }]
+}
